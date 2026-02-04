@@ -1,5 +1,3 @@
-Aqui está o conteúdo formatado e pronto para ser salvo como um arquivo **README.md**.
-
 # 🧠 MindShare - Sistema de Gerenciamento de Ideias
 
 O **MindShare** é uma plataforma desenvolvida como projeto de pós-graduação, focada no gerenciamento e votação de ideias. A aplicação utiliza uma arquitetura baseada em **GraphQL** para permitir que usuários interajam com sugestões, realizem votações dinâmicas e gerenciem o ciclo de vida de pensamentos criativos de forma eficiente.
